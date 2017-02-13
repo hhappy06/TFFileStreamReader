@@ -1,5 +1,5 @@
 # TFFileStreamReader
-My pratice about read data from tensorflow file sream
+My pratice about reading data using tensorflow file sream
 
 ##Use
 One could test it by
