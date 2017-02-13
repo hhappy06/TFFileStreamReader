@@ -1,0 +1,3 @@
+from __future__ import absolute_import
+
+from input.line_parser.line_parser import DefaultLinerParser
